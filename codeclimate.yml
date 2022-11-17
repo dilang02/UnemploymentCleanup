@@ -12,3 +12,4 @@ checks:
     enabled: true
     config:
       threshold: 2
+
